@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>Hobies</title>
+</head>
+<body>
+    <h2>My hobies</h2>
+    <ol>
+        <li> Motorcycling</li>
+        <li> Play a basketball</li>
+        <li> Ride a bike</li>
+        <li> Play a video game</li>
+        <li> Going to the cinema</li>
+    </ol>
+    <hr/>
+</body>
+</html>

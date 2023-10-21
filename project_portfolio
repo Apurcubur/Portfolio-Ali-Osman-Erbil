@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>Portfolio_Resume</title>
+</head>
+<body>
+    <h1>Ali Osman Erbil</h1>
+    <img src="./Benim editli foto 25 yas.jpg" alt="Ali Osman Erbil resim" height="150">
+    <h2>Summary</h2>
+    <p> I am a student studying in Sao Paulo, Brazil, and I am also doing an internship. </p>
+    <hr/>
+   <h2>Education</h2> 
+   <ul>
+    <li>     I studied primary education at Karakopru Primary School. </li>
+    <li> I finished high school at Colegio Belo Futuro International.</li>
+    <li> I am currently studying computer science at Anhembi Morumbi University.</li>
+   </ul>
+   <hr/>
+   <h2>Work experience</h2>
+<ul>
+    <li>Customer Service in Guia na Turquia tourism agency</li>
+</ul>
+<p>June 2019 - May 2021</p>
+<hr/>
+<h2>Skills</h2>
+<ul>
+    <li>Work ethics:⭐️⭐️⭐️⭐️⭐️</li>
+    <li>Customer service: ⭐️⭐️⭐️⭐️⭐️</li>
+    <li>Organizational skills: ⭐️⭐️⭐️⭐️</li>
+</ul>
+<h2>Awards and Certifications</h2>
+
+<ul>
+    <li></li>
+</ul>
+<hr/>
+<h2> Other</h2>
+    <ul>
+        <li> <a href="./My hobies.html">My hobbies</a></li>
+        <li><a href="./Contact me">Contact me</a></li>
+    </ul>
+<p> © Ali Osman Erbil. All rights reserved.</p>
+</body>
+</html>
